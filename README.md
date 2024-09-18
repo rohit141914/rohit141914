@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohit Nain</h1>
 <h3 align="center">I am a Full Stack Web Developer, currently pursuing my Computer Science Engineering.</h3>
-<img aligh="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-
-- 👨‍💻 All of my projects are available at [https://rohitnain.me/](https://rohitnain.me/)
-
-- 📫 How to reach me **rohitnainindian@gmail.com**
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    <p>
+      - 👨‍💻 All of my projects are available at <a href="https://rohitnain.me/">https://rohitnain.me/</a><br>
+      - 📫 How to reach me <strong>rohitnainindian@gmail.com</strong>
+    </p>
+    <!-- Rest of your content goes here -->
+  </div>
+  <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="margin-left: 20px;">
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
