@@ -39,10 +39,15 @@ and contribute to dynamic projects.</p>
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=000000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 
+![WhatsApp_Image_2024-10-18_at_12 59 52_AM-removebg-preview](https://github.com/user-attachments/assets/90147863-95ec-43d8-af87-73d85d546127)
+
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/rohit141914/count.svg" alt="visitor badge"/></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit141914&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=rohit141914&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+
+
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit141914&theme=chartreuse-dark"></p>
 
 ### :link: &nbsp;Connect with me
