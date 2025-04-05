@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Rohit Nain </h1>
 
 <h2 align="left" width="150px"> Associate Software Engineer</h2>
-<p align="left" width="150px"> Backend-focused Software Engineer Intern at Wealthy.in with hands-on
+<p align="left" width="150px"> Backend-focused Software Engineer Intern at Gaglers with hands-on
 experience in building and deploying multi-microservice cloud applications on
 IBM Cloud. Proficient in JavaScript, Node.js, Express, MongoDB, and
 Postgres, with additional expertise in React, Docker, Kubernetes, and
