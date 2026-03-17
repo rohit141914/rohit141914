@@ -4,12 +4,19 @@
 <h1 align="center">Hi <img src="https://github.com/ishitaraina1807/ishitaraina1807/blob/main/Hi.gif?raw=true" width="30px" height="30px">, I am Rohit Nain </h1>
 
 <h2 align="left" width="150px"> Associate Software Engineer</h2>
-<p align="left" width="150px"> AI-Powered Full-Stack Software Engineer with 1 year of experience at Gaglers Inc and Wealthy Broking. Hands-on
-experience in building and deploying multi-microservice cloud applications on
-IBM Cloud. Proficient in JavaScript, Node.js, Express, MongoDB, and
+<p align="left" width="150px"> 
+AI-Powered Full-Stack Software Engineer (Backend Heavy) with 2 years of experience at Gaglers Inc, Wealthy Broking, and Family eVault. Hands-on experience in building and deploying multi-microservice cloud applications. Proficient in Python, Django, React.js, JavaScript, Node.js, Express, MongoDB, and
 Postgres, with additional expertise in React, Docker, Kubernetes, and
 serverless architectures. Eager to embrace challenges, continuously learn
 and contribute to dynamic projects.</p>
+</br>
+My expertise includes: 
+• LLM Fine-tuning, building copilots, RAG chatbots, and sentiment/topic analysis using OpenAI, LangChain, LangGraph, CrewAI, and spaCy.
+• End-to-End Deployment using FastAPI, AWS Cloud, MLOps, and vector databases, integrating Python, PyTorch, and Huggingface for enterprise-grade solutions.
+• Full-Stack AI Integration: Python, Vue.js, React, Node.js, MongoDB, SQL; strong skill in architecting scalable, user-centric AI applications.
+
+Eager to embrace challenges, continuously learn, and contribute to dynamic projects
+
 
 
 ### 🛠 &nbsp;Tech Stack
