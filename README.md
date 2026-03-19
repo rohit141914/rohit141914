@@ -5,7 +5,7 @@
 
 <h2 align="left" width="150px"> Associate Software Engineer</h2>
 <p align="left" width="150px"> 
-AI-Powered Full-Stack Software Engineer (Backend Heavy) with 2 years of experience at <b>Gaglers Inc</b>, <b>Wealthy Broking</b>, and <b>Family eVault</b>. Hands-on experience in building and deploying multi-microservice cloud applications. Proficient in <b>Python, Django, React.js, JavaScript, Node.js, Express, MongoDB, </b> and <b>
+AI-Powered Backend Software Engineer with 2 years of experience at <b>Gaglers Inc</b>, <b>Wealthy Broking</b>, and <b>Family eVault</b>. Hands-on experience in building and deploying multi-microservice cloud applications. Proficient in <b>Python, Django, React.js, JavaScript, Node.js, Express, MongoDB, </b> and <b>
 Postgres, with additional expertise in Docker, Kubernetes, and
 serverless architectures </b>. Eager to embrace challenges, continuously learn
 and contribute to dynamic projects.</p>
