@@ -15,7 +15,7 @@ and contribute to dynamic projects.</p>
 <ul>
   <li>LLM Fine-tuning, building copilots, RAG chatbots, and sentiment/topic analysis using <b>OpenAI, LangChain, LangGraph, CrewAI, and spaCy </b>.</li>
   <li>End-to-End Deployment using FastAPI, AWS Cloud, MLOps, and vector databases, integrating <b>Python, PyTorch, and Hugging Face for enterprise-grade solutions </b></li>
-  <li>Full-Stack AI Integration: <b> Python, Vue.js, React, Node.js, MongoDB, SQL; strong skills in architecting scalable, user-centric AI applications. </b></li>
+  <li>Backend: <b> Python, Vue.js, React, Node.js, MongoDB, SQL; strong skills in architecting scalable, user-centric AI applications. </b></li>
 </ul>
 Eager to embrace challenges, continuously learn, and contribute to dynamic projects
 
